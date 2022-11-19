@@ -16,9 +16,10 @@ export const HeaderStyleContainer = styled.div`
 		.img-styled {
 			width: auto;
 			height: auto;
-
+		}
+		img {
 			&:hover{
-				transform: scale(1.1);
+				transform: scale(1.03);
 			}
 		}
 		.card-wrapper {
